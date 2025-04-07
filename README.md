@@ -20,3 +20,7 @@ You can compress or decompress txt/lzw files into the same-named file or specify
 ./lzwcoder input -e output # encode input to output
 ./lzwcoder input -d output # decode input to output
 ```
+
+**Test:**
+
+You can test our LZW compressor's performance in exp.ipynb.
